@@ -4,4 +4,4 @@ This Search engine helps in searching for you tthe related webs in the Data-Base
                              MOVIES  etc..
 For user info the software also saves the USER_NAME, KEYWORD that used foo searching and time of usage.
 
-###########---->start the website from the display.jsp<------#######
+###########---->start the website from the search.jsp<------#######
